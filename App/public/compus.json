@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 85000,
+      "id": 1,
+      "title": "Motorola Moto G9 Plus",
+      "thumbnailUrl": "https://www.cetrogar.com.ar/media/catalog/product/t/e/te2657_6_.jpg?width=500&height=500&canvas=500:500&quality=80&bg-color=255,255,255&fit=bounds"
+    },
+    {
+      "precio": 150000,
+      "id": 2,
+      "title": "Samsung S21 Plus",
+      "thumbnailUrl": "https://imageservice.asgoodasnew.com/1000/18100/14/title-0000.jpg"
+    },
+    {
+      "precio": 125000,
+      "id": 3,
+      "title": "Samsung S20 Plus",
+      "thumbnailUrl": "https://www.cetrogar.com.ar/media/catalog/product/t/e/te2657_6_.jpg?width=500&height=500&canvas=500:500&quality=80&bg-color=255,255,255&fit=bounds"
+    },
+    {
+      "precio": 250000,
+      "id": 4,
+      "title": "Iphone 12 Pro Max",
+      "thumbnailUrl": "https://ipoint.com.ar/20484-large_default/iphone-12-pro-max-256gb-gold.jpg"
+    },
+    {
+      "precio": 160000,
+      "id": 5,
+      "title": "Iphone 12",
+      "thumbnailUrl": "https://imageservice.asgoodasnew.com/1000/18100/14/title-0000.jpg"
+    },
+    {
+      "precio": 145000,
+      "id": 6,
+      "title": "Samsung Galaxy E52",
+      "thumbnailUrl": "https://ipoint.com.ar/20484-large_default/iphone-12-pro-max-256gb-gold.jpg"
+    }
+  ]
